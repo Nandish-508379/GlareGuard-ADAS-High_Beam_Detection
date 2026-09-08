@@ -259,7 +259,7 @@ IML_MINI_PROJECT/
 │   ├── unseen_image_1_classified.png
 │   └── unseen_image_2_classified.png
 │
-├── AA_TESTING/                 # Experimental laboratory sandbox (PCA, alternative LBP)
+├── experimental_analysis/      # Advanced analytics & research sandbox (PCA decomposition, CLAHE, 82-D feature ablation, 100 diagnostic figures)
 ├── requirements.txt            # Python environment dependencies
 ├── LICENSE                     # MIT Open Source License (M NANDISH, 2025)
 └── README.md                   # Comprehensive technical documentation & project report
