@@ -12,10 +12,15 @@
 > **IML Mini Project** | **Project ID: 002/2025** | **Year of Project: 2025**  
 > An automated, real-time Computer Vision and Machine Learning system for intelligent headlight glare mitigation in night driving. Distinguishes hazardous vehicular **High Beam** optical sources from ambient **Glare** (low beams, streetlamps, wet asphalt reflections) using fused photometric intensity metrics, Local Binary Pattern (LBP) micro-texture descriptors, and a 300-estimator Random Forest ensemble.
 
+> [!IMPORTANT]
+> **Dataset & Academic Fair Use Notice**:
+> The vehicular night-driving images compiled in `DATASET/` and `MARKERS/` were collected from public web search resources and educational repositories strictly for **non-commercial, academic research, algorithmic benchmarking, and undergraduate mini-project evaluation** under Fair Use principles. The image media remains the intellectual property of their original creators/owners. The bounding-box annotations, 275-D feature engineering, machine learning pipelines, trained models, visual analytics, and documentation are the original educational work of **M NANDISH**. For inquiries or takedown requests, contact: `nandish2501@outlook.com`.
+
 ---
 
 ## 📌 Table of Contents
 - [Project Overview](#-project-overview)
+- [Dataset & Academic Fair Use Disclaimer](#-dataset--academic-fair-use-disclaimer)
 - [Automotive Motivation & Problem Statement](#-automotive-motivation--problem-statement)
 - [System Architecture](#-system-architecture)
 - [Processing Pipeline Flowchart](#-processing-pipeline-flowchart)
@@ -541,6 +546,19 @@ python TEST_MODEL.py
 # 5. Generate all visual figures
 python generate_visuals.py
 ```
+
+---
+
+## ⚠️ Dataset & Academic Fair Use Disclaimer
+
+> [!CAUTION]
+> **Important Legal & Academic Attribution Notice**
+
+1. **Non-Commercial Academic Scope**: This repository represents an undergraduate engineering academic mini project developed at Ramaiah Institute of Technology (MSRIT) for the Introduction to Machine Learning (IML) course curriculum (`Project ID: 002/2025`). It is intended exclusively for non-commercial educational instruction, algorithmic prototyping, and peer evaluation.
+2. **Web Image Origin & Fair Use**: Night-driving camera scenes located in `DATASET/`, `MARKERS/`, and test assets were compiled from publicly available internet sources (search engines, automotive forums, research illustrations) solely for benchmarking computer vision techniques (photometric moments, local binary patterns, morphological contour filtering). No commercial license is claimed over third-party images, and no monetization is associated with this repository.
+3. **Intellectual Property Rights of Original Authors**: All third-party images remain the intellectual property and copyright of their respective owners, photographers, or organizations.
+4. **Takedown & Image Removal Policy**: If you are a copyright holder of any image included in this dataset and wish for it to be removed or credited differently, please contact **M NANDISH** via email at [`nandish2501@outlook.com`](mailto:nandish2501@outlook.com) or open an issue on this repository. The referenced media will be promptly removed or substituted with synthetic/open-source equivalents.
+5. **Code & Models**: All Python scripts, feature extraction pipelines, mathematical formulations, trained model checkpoints (`highbeam_rf_model.pkl`), analysis notebooks, and technical documentation are the original educational work of **M NANDISH** and are licensed under the [MIT License](LICENSE).
 
 ---
 

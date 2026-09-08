@@ -13,6 +13,10 @@ Description:
     raw road camera frames, manually draw bounding boxes over illuminated
     optical regions, and classify them as High Beam (HB) or Glare (GL).
     Saves image duplicates and structured JSON bounding boxes for dataset building.
+
+Academic & Fair Use Disclaimer:
+    Images in DATASET/ were retrieved from public internet resources strictly
+    for non-commercial, academic study and educational benchmarking under Fair Use.
 ================================================================================
 """
 

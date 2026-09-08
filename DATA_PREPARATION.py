@@ -14,6 +14,11 @@ Description:
     normalized grayscale histogram, and a 256-bin Local Binary Pattern (LBP)
     micro-texture representation.
     Outputs extracted feature matrix (X), class labels (y), and source metadata.
+
+Academic & Fair Use Disclaimer:
+    The vehicular road images in DATASET/ and MARKERS/ were retrieved from
+    public internet resources strictly for non-commercial educational study,
+    algorithmic evaluation, and academic research under Fair Use.
 ================================================================================
 """
 

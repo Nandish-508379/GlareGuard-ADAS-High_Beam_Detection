@@ -19,3 +19,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+--------------------------------------------------------------------------------
+DATASET & THIRD-PARTY MEDIA NOTICE:
+The above MIT License applies strictly to the source code, feature extractors,
+trained model weights, and documentation authored by M NANDISH.
+The underlying night road images in DATASET/ and MARKERS/ were gathered from
+public internet sources solely for non-commercial, academic educational research
+under Fair Use principles. All third-party copyrights remain with their respective
+owners.
+--------------------------------------------------------------------------------

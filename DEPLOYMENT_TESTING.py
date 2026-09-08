@@ -16,6 +16,10 @@ Description:
     the pre-trained Random Forest model to classify each optical source into
     HIGH BEAM (green box) or GLARE (orange box).
     Supports headless execution and automatic output image exporting.
+
+Academic & Fair Use Disclaimer:
+    Test road imagery is utilized strictly for non-commercial educational study,
+    algorithmic validation, and academic evaluation under Fair Use.
 ================================================================================
 """
 
