@@ -1,0 +1,114 @@
+[
+    {
+        "class": "high_beam",
+        "x_min": 250,
+        "y_min": 196,
+        "x_max": 296,
+        "y_max": 239
+    },
+    {
+        "class": "high_beam",
+        "x_min": 305,
+        "y_min": 201,
+        "x_max": 331,
+        "y_max": 230
+    },
+    {
+        "class": "high_beam",
+        "x_min": 370,
+        "y_min": 204,
+        "x_max": 393,
+        "y_max": 233
+    },
+    {
+        "class": "high_beam",
+        "x_min": 160,
+        "y_min": 205,
+        "x_max": 193,
+        "y_max": 244
+    },
+    {
+        "class": "high_beam",
+        "x_min": 106,
+        "y_min": 207,
+        "x_max": 131,
+        "y_max": 240
+    },
+    {
+        "class": "high_beam",
+        "x_min": 59,
+        "y_min": 201,
+        "x_max": 97,
+        "y_max": 236
+    },
+    {
+        "class": "glare",
+        "x_min": 178,
+        "y_min": 51,
+        "x_max": 178,
+        "y_max": 52
+    },
+    {
+        "class": "glare",
+        "x_min": 162,
+        "y_min": 10,
+        "x_max": 221,
+        "y_max": 23
+    },
+    {
+        "class": "glare",
+        "x_min": 101,
+        "y_min": 35,
+        "x_max": 146,
+        "y_max": 61
+    },
+    {
+        "class": "glare",
+        "x_min": 119,
+        "y_min": 4,
+        "x_max": 158,
+        "y_max": 58
+    },
+    {
+        "class": "glare",
+        "x_min": 73,
+        "y_min": 89,
+        "x_max": 153,
+        "y_max": 116
+    },
+    {
+        "class": "glare",
+        "x_min": 41,
+        "y_min": 138,
+        "x_max": 104,
+        "y_max": 155
+    },
+    {
+        "class": "glare",
+        "x_min": 34,
+        "y_min": 152,
+        "x_max": 79,
+        "y_max": 176
+    },
+    {
+        "class": "glare",
+        "x_min": 28,
+        "y_min": 174,
+        "x_max": 70,
+        "y_max": 198
+    },
+    {
+        "class": "glare",
+        "x_min": 14,
+        "y_min": 196,
+        "x_max": 49,
+        "y_max": 212
+    },
+    {
+        "class": "glare",
+        "x_min": 9,
+        "y_min": 209,
+        "x_max": 46,
+        "y_max": 251
+    }
+]

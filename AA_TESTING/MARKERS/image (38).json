@@ -1,0 +1,23 @@
+[
+    {
+        "class": "high_beam",
+        "x_min": 331,
+        "y_min": 156,
+        "x_max": 375,
+        "y_max": 196
+    },
+    {
+        "class": "high_beam",
+        "x_min": 394,
+        "y_min": 163,
+        "x_max": 437,
+        "y_max": 205
+    },
+    {
+        "class": "high_beam",
+        "x_min": 445,
+        "y_min": 149,
+        "x_max": 481,
+        "y_max": 181
+    }
+]

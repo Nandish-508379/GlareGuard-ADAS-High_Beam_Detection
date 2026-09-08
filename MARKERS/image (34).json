@@ -1,0 +1,16 @@
+[
+    {
+        "class": "glare",
+        "x_min": 186,
+        "y_min": 116,
+        "x_max": 232,
+        "y_max": 166
+    },
+    {
+        "class": "high_beam",
+        "x_min": 279,
+        "y_min": 205,
+        "x_max": 377,
+        "y_max": 272
+    }
+]

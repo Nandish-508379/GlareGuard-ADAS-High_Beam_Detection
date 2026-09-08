@@ -1,0 +1,58 @@
+[
+    {
+        "class": "glare",
+        "x_min": 116,
+        "y_min": 40,
+        "x_max": 179,
+        "y_max": 83
+    },
+    {
+        "class": "glare",
+        "x_min": 327,
+        "y_min": 182,
+        "x_max": 386,
+        "y_max": 244
+    },
+    {
+        "class": "glare",
+        "x_min": 417,
+        "y_min": 254,
+        "x_max": 457,
+        "y_max": 295
+    },
+    {
+        "class": "glare",
+        "x_min": 460,
+        "y_min": 281,
+        "x_max": 488,
+        "y_max": 307
+    },
+    {
+        "class": "glare",
+        "x_min": 491,
+        "y_min": 306,
+        "x_max": 514,
+        "y_max": 331
+    },
+    {
+        "class": "glare",
+        "x_min": 508,
+        "y_min": 323,
+        "x_max": 534,
+        "y_max": 340
+    },
+    {
+        "class": "glare",
+        "x_min": 531,
+        "y_min": 335,
+        "x_max": 554,
+        "y_max": 355
+    },
+    {
+        "class": "high_beam",
+        "x_min": 453,
+        "y_min": 376,
+        "x_max": 503,
+        "y_max": 395
+    }
+]

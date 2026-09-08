@@ -1,0 +1,128 @@
+[
+    {
+        "class": "high_beam",
+        "x_min": 106,
+        "y_min": 479,
+        "x_max": 136,
+        "y_max": 500
+    },
+    {
+        "class": "high_beam",
+        "x_min": 160,
+        "y_min": 480,
+        "x_max": 170,
+        "y_max": 505
+    },
+    {
+        "class": "high_beam",
+        "x_min": 173,
+        "y_min": 489,
+        "x_max": 195,
+        "y_max": 506
+    },
+    {
+        "class": "high_beam",
+        "x_min": 243,
+        "y_min": 490,
+        "x_max": 265,
+        "y_max": 508
+    },
+    {
+        "class": "high_beam",
+        "x_min": 268,
+        "y_min": 459,
+        "x_max": 281,
+        "y_max": 477
+    },
+    {
+        "class": "high_beam",
+        "x_min": 308,
+        "y_min": 462,
+        "x_max": 330,
+        "y_max": 482
+    },
+    {
+        "class": "high_beam",
+        "x_min": 258,
+        "y_min": 446,
+        "x_max": 276,
+        "y_max": 457
+    },
+    {
+        "class": "high_beam",
+        "x_min": 22,
+        "y_min": 471,
+        "x_max": 55,
+        "y_max": 500
+    },
+    {
+        "class": "glare",
+        "x_min": 153,
+        "y_min": 524,
+        "x_max": 204,
+        "y_max": 581
+    },
+    {
+        "class": "glare",
+        "x_min": 221,
+        "y_min": 520,
+        "x_max": 270,
+        "y_max": 572
+    },
+    {
+        "class": "glare",
+        "x_min": 246,
+        "y_min": 147,
+        "x_max": 289,
+        "y_max": 168
+    },
+    {
+        "class": "glare",
+        "x_min": 306,
+        "y_min": 221,
+        "x_max": 332,
+        "y_max": 243
+    },
+    {
+        "class": "glare",
+        "x_min": 338,
+        "y_min": 263,
+        "x_max": 358,
+        "y_max": 301
+    },
+    {
+        "class": "glare",
+        "x_min": 360,
+        "y_min": 305,
+        "x_max": 381,
+        "y_max": 333
+    },
+    {
+        "class": "glare",
+        "x_min": 379,
+        "y_min": 329,
+        "x_max": 392,
+        "y_max": 348
+    },
+    {
+        "class": "glare",
+        "x_min": 391,
+        "y_min": 347,
+        "x_max": 411,
+        "y_max": 374
+    },
+    {
+        "class": "glare",
+        "x_min": 25,
+        "y_min": 538,
+        "x_max": 71,
+        "y_max": 595
+    },
+    {
+        "class": "glare",
+        "x_min": 324,
+        "y_min": 429,
+        "x_max": 403,
+        "y_max": 503
+    }
+]

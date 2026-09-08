@@ -1,0 +1,37 @@
+[
+    {
+        "class": "high_beam",
+        "x_min": 328,
+        "y_min": 215,
+        "x_max": 424,
+        "y_max": 294
+    },
+    {
+        "class": "glare",
+        "x_min": 381,
+        "y_min": 99,
+        "x_max": 432,
+        "y_max": 156
+    },
+    {
+        "class": "glare",
+        "x_min": 174,
+        "y_min": 112,
+        "x_max": 189,
+        "y_max": 155
+    },
+    {
+        "class": "glare",
+        "x_min": 269,
+        "y_min": 172,
+        "x_max": 285,
+        "y_max": 195
+    },
+    {
+        "class": "glare",
+        "x_min": 323,
+        "y_min": 183,
+        "x_max": 467,
+        "y_max": 211
+    }
+]

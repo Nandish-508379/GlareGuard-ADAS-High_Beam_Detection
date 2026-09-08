@@ -1,0 +1,128 @@
+[
+    {
+        "class": "high_beam",
+        "x_min": 171,
+        "y_min": 100,
+        "x_max": 197,
+        "y_max": 122
+    },
+    {
+        "class": "high_beam",
+        "x_min": 197,
+        "y_min": 101,
+        "x_max": 218,
+        "y_max": 122
+    },
+    {
+        "class": "high_beam",
+        "x_min": 241,
+        "y_min": 112,
+        "x_max": 264,
+        "y_max": 132
+    },
+    {
+        "class": "high_beam",
+        "x_min": 266,
+        "y_min": 116,
+        "x_max": 292,
+        "y_max": 135
+    },
+    {
+        "class": "high_beam",
+        "x_min": 253,
+        "y_min": 192,
+        "x_max": 284,
+        "y_max": 212
+    },
+    {
+        "class": "high_beam",
+        "x_min": 283,
+        "y_min": 183,
+        "x_max": 316,
+        "y_max": 217
+    },
+    {
+        "class": "high_beam",
+        "x_min": 184,
+        "y_min": 175,
+        "x_max": 214,
+        "y_max": 196
+    },
+    {
+        "class": "high_beam",
+        "x_min": 155,
+        "y_min": 167,
+        "x_max": 178,
+        "y_max": 195
+    },
+    {
+        "class": "high_beam",
+        "x_min": 144,
+        "y_min": 284,
+        "x_max": 171,
+        "y_max": 319
+    },
+    {
+        "class": "high_beam",
+        "x_min": 190,
+        "y_min": 286,
+        "x_max": 214,
+        "y_max": 319
+    },
+    {
+        "class": "high_beam",
+        "x_min": 54,
+        "y_min": 247,
+        "x_max": 77,
+        "y_max": 274
+    },
+    {
+        "class": "high_beam",
+        "x_min": 15,
+        "y_min": 242,
+        "x_max": 44,
+        "y_max": 282
+    },
+    {
+        "class": "high_beam",
+        "x_min": 38,
+        "y_min": 164,
+        "x_max": 61,
+        "y_max": 194
+    },
+    {
+        "class": "high_beam",
+        "x_min": 83,
+        "y_min": 166,
+        "x_max": 109,
+        "y_max": 194
+    },
+    {
+        "class": "high_beam",
+        "x_min": 72,
+        "y_min": 72,
+        "x_max": 122,
+        "y_max": 104
+    },
+    {
+        "class": "high_beam",
+        "x_min": 208,
+        "y_min": 45,
+        "x_max": 237,
+        "y_max": 62
+    },
+    {
+        "class": "high_beam",
+        "x_min": 239,
+        "y_min": 20,
+        "x_max": 264,
+        "y_max": 54
+    },
+    {
+        "class": "high_beam",
+        "x_min": 282,
+        "y_min": 27,
+        "x_max": 342,
+        "y_max": 65
+    }
+]
