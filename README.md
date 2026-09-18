@@ -9,7 +9,7 @@
 [![Institution](https://img.shields.io/badge/Institution-MSRIT%20Bengaluru-orange.svg)](https://www.msrit.edu)
 [![Field](https://img.shields.io/badge/Field-Automotive%20ADAS%20%7C%20Machine%20Learning-informational.svg)](#)
 
-> **IML Mini Project** | **Project ID: 002/2025** | **Year of Project: 2025**  
+>**Project ID: 002/2025** | **Year of Project: 2025**  | **IML Mini Project** 
 > An automated, real-time Computer Vision and Machine Learning system for intelligent headlight glare mitigation in night driving. Distinguishes hazardous vehicular **High Beam** optical sources from ambient **Glare** (low beams, streetlamps, wet asphalt reflections) using fused photometric intensity metrics, Local Binary Pattern (LBP) micro-texture descriptors, and a 300-estimator Random Forest ensemble.
 
 > [!IMPORTANT]
