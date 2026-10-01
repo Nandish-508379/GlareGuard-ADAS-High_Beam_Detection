@@ -564,7 +564,8 @@ python generate_visuals.py
 
 ## 👤 Author & Project Details
 
-- **Author**: **M NANDISH** ([@Nandish-508379](https://github.com/Nandish-508379))  
+- **Author 1**: **M NANDISH** ([@Nandish-508379](https://github.com/Nandish-508379))
+- **Author 2**: **Prafull Agrawal** ([@prafullagrawal90-bot](https://github.com/prafullagrawal90-bot))  
 - **Year of Project**: `2025`  
 - **Project ID**: `002/2025`  
 - **Course**: Introduction to Machine Learning (IML) Mini Project  
